@@ -123,10 +123,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Anis**
-- 📧 *[your email]*
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+**Kasimsab Pathan**
+- 📧 *[Anispathan20@gmail.com]*
+- 💼 [LinkedIn](https://linkedin.com/in/kasim-pathan)
+- 🐙 [GitHub](https://github.com/Anispathan20)
 
 ---
 
